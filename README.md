@@ -156,8 +156,8 @@ class MainActivity : AppCompatActivity() {
 #### Step 7.
 Add function `checkPermissions` in `onCreate` to check permission ever time app running :
 
-```java
-public class MainActivity extends AppCompatActivity {
+```kotlin
+class MainActivity : AppCompatActivity() {
 
     ...
 
