@@ -184,7 +184,7 @@ class MainActivity : AppCompatActivity() {
 #### Step 8.
 Fullcode will be like this :
 
-```koltin
+```kotlin
 class MainActivity : AppCompatActivity() {
 
     var permissions = arrayOf<String>(
@@ -259,7 +259,7 @@ Preview :
 
 #
 #### FullCode
-[Java](https://github.com/gzeinnumer/MultiPermitionkt/blob/master/app/src/main/java/com/gzeinnumer/multipermitionkt/MainActivity.kt)
+[Kotlin](https://github.com/gzeinnumer/MultiPermitionkt/blob/master/app/src/main/java/com/gzeinnumer/multipermitionkt/MainActivity.kt)
 [Manifest](https://github.com/gzeinnumer/MultiPermitionkt/blob/master/app/src/main/AndroidManifest.xml)
 
 ---
