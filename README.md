@@ -257,6 +257,11 @@ Preview :
 |--|--|--|
 |Request Permission 1 |Request Permission 2 |Iff all permission granted Toast `AllGranted` will show |
 
+#
+#### FullCode
+[Java](https://github.com/gzeinnumer/MultiPermitionkt/blob/master/app/src/main/java/com/gzeinnumer/multipermitionkt/MainActivity.kt)
+[Manifest](https://github.com/gzeinnumer/MultiPermitionkt/blob/master/app/src/main/AndroidManifest.xml)
+
 ---
 
 ```
